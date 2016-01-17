@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MeetUpsViewController.h
 //  MeetMeUp
 //
 //  Created by Nader Neyzi on 1/15/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EventsViewController : UIViewController
 
 @end
-
